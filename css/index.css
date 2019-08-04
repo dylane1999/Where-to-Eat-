@@ -1,4 +1,22 @@
 body{
-  margin: 2in;
+  background-color: whitesmoke
 }
+#yup{
+  margin-left: 1in;
+  margin-right: 1in;
+}
+#firstgrid{
+  text-align: center;
+}
+
+#MainButton{
+  border-radius: 10%;
+  background-color: red
+}
+
+#question{
+  font: Helvetica;
+
+}
+
 
